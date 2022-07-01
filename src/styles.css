@@ -241,7 +241,7 @@ h3 {
 .info__inner {
     margin-bottom: 130px;
     display: grid;
-    grid-template-columns: repeat(4, minmax(255px, 1fr));
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
     justify-content: space-between;
 }
 
